@@ -21,3 +21,6 @@
 ## 数据开放相关组织
 - [开放知识基金会](https://okfn.org/)
 
+## 竞赛相关
+- [阿里天池](https://tianchi.shuju.aliyun.com/)
+- [数据城堡](http://www.pkbigdata.com/)
