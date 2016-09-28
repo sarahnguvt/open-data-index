@@ -36,5 +36,5 @@
 
 |Data | Data Attribute | Possible Solution | Comments
 |----|------|----|----|
-|[交通事故成因分析](https://pan.baidu.com/s/1c27gKSC) v9h6 | detailed traffic accident information (driver, fault, car info, etc.) | possibly classification of different types of accidents | |
-|[猫狗大战](https://pan.baidu.com/s/1qYnL4C0) xfq8 | pictures of dogs as train set, identify dogs from cats pictures as test | image classification | |
+|[交通事故成因分析](https://pan.baidu.com/s/1c27gKSC) v9h6 | detailed traffic accident information (driver, fault, car info, etc.) | possibly classification of different types of accidents |[Background intro](http://www.pkbigdata.com/common/cmpt/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E6%88%90%E5%9B%A0%E5%88%86%E6%9E%90%E7%AB%9E%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) |
+|[猫狗大战](https://pan.baidu.com/s/1qYnL4C0) xfq8 | pictures of dogs as train set, identify dogs from cats pictures as test | image classification |[Background intro](http://www.pkbigdata.com/common/cmpt/%E7%8C%AB%E7%8B%97%E5%A4%A7%E6%88%98_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html) |
