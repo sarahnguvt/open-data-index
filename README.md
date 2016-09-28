@@ -22,5 +22,19 @@
 - [开放知识基金会](https://okfn.org/)
 
 ## 竞赛相关
-- [阿里天池](https://tianchi.shuju.aliyun.com/)
+- [阿里天池 Data Lab](https://tianchi.shuju.aliyun.com/datalab/index.htm?spm=5176.100075.1234.9.LY8eAt)
+
+|Data (can download after login) | Data Attribute | Possible Solution | Comments
+|----|------|----|----|
+|[Data set 1](https://tianchi.shuju.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.13.V2n2C1&id=1) | train data (# of recs: 260865) with label 1/0 to identify repeated buyer; user web behavior txn table (# of recs: 54925331) and user profile table available for feature creation  | Classification: Predicted probability of the given user becoming a repeat buyer of the given merchant; Recommendation engine | All items and categories are masked |
+|[Data set 2](https://tianchi.shuju.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.19.cavtTL&id=4) | user behavior txn table (# of recs: 480724)  | Mobile recommendation of items to users | All items and categories are masked |
+|[Data set 3](https://tianchi.shuju.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.27.cavtTL&id=12) | sina weibo forward/comment/like counts | forward/comment/like prediction after posting on social network system | text processing related |
+|[Data set 4](https://tianchi.shuju.aliyun.com/datalab/dataSet.htm?spm=5176.100073.888.25.cavtTL&id=7) | traffic flow per road section by time | forward/comment/like prediction after posting on social network system | do not find the data of the road network except the map... |
+
+  
 - [数据城堡](http://www.pkbigdata.com/)
+
+|Data | Data Attribute | Possible Solution | Comments
+|----|------|----|----|
+|[交通事故成因分析](https://pan.baidu.com/s/1c27gKSC) v9h6 | detailed traffic accident information (driver, fault, car info, etc.) | possibly classification of different types of accidents | |
+|[猫狗大战](https://pan.baidu.com/s/1qYnL4C0) xfq8 | pictures of dogs as train set, identify dogs from cats pictures as test | image classification | |
